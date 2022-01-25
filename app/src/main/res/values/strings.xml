@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="txt_nun1">Primer Valor</string>
+    <string name="txt_nun2">Segundo Valor</string>
+    <string name="tv_vista">Resultado</string>
+    <string name="rb_suma">Sumar</string>
+    <string name="rb_restar">Restar</string>
+    <string name="botton">CALCULAR</string>
+    <string name="bottonEnviar">Siguiente</string><string name="tv_estatus">Estatus Del Alumno</string>
+    <string name="txt_nunM">Matematicas</string>
+    <string name="txt_nunQ">Quimica</string>
+    <string name="txt_nun3">Fisica</string>
+
+</resources>
